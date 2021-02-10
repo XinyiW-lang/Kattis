@@ -4,7 +4,7 @@ import java.util.Collections;
 import java.util.PriorityQueue;
 import java.util.Scanner;
 
-public class plantingtrees_260849970 {
+public class plantingtrees {
 	public static int plan(PriorityQueue<Integer> queue) {
 		int result=queue.remove();
 		int restDays = result-1;
