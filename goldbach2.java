@@ -3,7 +3,7 @@ package COMP321;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class goldbach2_260849970 {
+public class goldbach2 {
 	public static boolean isPrime(int n) {
 		for (int i = 2; i < (int)(Math.sqrt(n) + 1); i++) {
 			if (n % i == 0) {
