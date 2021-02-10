@@ -2,7 +2,7 @@ package COMP321;
 
 import java.util.Scanner;
 
-public class erase_260849970 {
+public class erase{
 	public static String overWriting(String bin) {
 		//flip the binary string
 		String flipped = new String();
