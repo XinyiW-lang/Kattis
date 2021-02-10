@@ -2,7 +2,7 @@ package COMP321;
 
 import java.util.Scanner;
 
-public class t9spelling_260849970 {
+public class t9spelling{
 	public static String determineNum(int ascii) {
 		//a method that returns a string of numbers it should be typed in T9 keyboard
 		String str = new String();
