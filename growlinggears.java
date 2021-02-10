@@ -2,7 +2,7 @@ package COMP321;
 
 import java.util.Scanner;
 
-public class growlinggears_260849970 {
+public class growlinggears {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
