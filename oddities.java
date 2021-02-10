@@ -2,7 +2,7 @@ package COMP321;
 
 import java.util.Scanner;
 
-public class oddities_260849970 {
+public class oddities{
 	public static void main(String[] args) {
 			//read the inputs
 		    Scanner input = new Scanner(System.in);
