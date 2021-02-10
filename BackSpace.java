@@ -3,7 +3,7 @@ package COMP321;
 import java.util.Scanner;
 
 
-public class BackSpace_260849970 {
+public class BackSpace {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
