@@ -2,7 +2,7 @@ package COMP321;
 
 import java.util.Scanner;
 
-public class cold_260849970 {
+public class cold {
 	public static void main(String[] args) {
 		//get user's input
 		Scanner input = new Scanner(System.in);
