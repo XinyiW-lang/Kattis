@@ -3,7 +3,7 @@ package COMP321;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class narrowartgallery_260849970 {
+public class narrowartgallery {
 	public static int findPath(int n, int k, int[] gallery) {
 		//initialize a n by (k+1) by 3 table with a small enough initial value, i.e. -50 
 		int[][][] storage = new int[n][k+1][3];
