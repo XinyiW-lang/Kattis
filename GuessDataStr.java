@@ -7,7 +7,7 @@ import java.util.Queue;
 import java.util.Scanner;
 import java.util.Stack;
 
-public class GuessDataStr_260849970 {
+public class GuessDataStr {
 
 	//The comparator used in priority queue
 	public static Comparator<Integer> intComparator = new Comparator<Integer>() {
